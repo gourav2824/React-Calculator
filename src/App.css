@@ -1,38 +1,62 @@
-.App {
+#heading {
+  margin-top: 25px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#form {
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 50px;
+  background-color: #f2f2f2;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#input_one {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#input_two {
+  padding: 10px;
+  margin-bottom: 40px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+#plus, #minus, #multiply, #divide {
+  box-sizing: border-box;
+  font-size: 25px;
+  padding: 10px 20px;
+  background-color: bisque;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#plus, #minus, #multiply {
+  margin-right: 20px;
+}
+
+#clear {
+  padding: 10px 15px;
+  background-color: aquamarine;
+  margin-bottom: 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+#output {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 10px 50px;
+  width: 250px;
+  height: 50px;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 5px;
 }
