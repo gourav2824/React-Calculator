@@ -7,4 +7,4 @@ This is a simple calculator which can do the following operations :
 4. Division
 
 ## Screenshot
-![Calculator](https://github.com/gourav2824/React-Calculator/tree/master/public/screenshot.JPG?raw=true)
+![Calculator](https://github.com/gourav2824/React-Calculator/public/screenshot.png?raw=true)
