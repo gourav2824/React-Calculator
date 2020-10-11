@@ -13,4 +13,4 @@ This is a simple calculator implemented using React which can do the following o
 
 
 ## Screenshot
-![](public/screenshot.PNG)
+![](public/image.PNG)
